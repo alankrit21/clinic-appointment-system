@@ -1,7 +1,13 @@
 Clinic Appointment System
 
 Appointment Booking Details:
-Patient Name: Alankrit
+Patient Name: Rahul
 Doctor Name: Dr. Sharma
 Appointment Time: 10:00 AM
 Status: Confirmed
+
+Doctor Schedule Details:
+Doctor Name: Dr. Sharma
+Available Days: Monday to Friday
+Available Time: 9:00 AM to 5:00 PM
+Status: Available
