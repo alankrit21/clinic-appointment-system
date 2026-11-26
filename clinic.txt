@@ -1,0 +1,7 @@
+Clinic Appointment System
+
+Appointment Booking Details:
+Patient Name: Alankrit
+Doctor Name: Dr. Sharma
+Appointment Time: 10:00 AM
+Status: Confirmed
