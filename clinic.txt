@@ -1,0 +1,7 @@
+Clinic Appointment System
+
+Doctor Schedule Details:
+Doctor Name: Dr. Sharma
+Available Days: Monday to Friday
+Available Time: 9:00 AM to 5:00 PM
+Status: Available
